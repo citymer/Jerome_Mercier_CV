@@ -1,8 +1,9 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "ACAA,AAAA,MAAM,CAAC;EACL,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM;CACf;;AACD,AAAA,MAAM,CAAC;EACL,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,OAAiB;CACpC;;ADPD,AAAA,CAAC,CAAC;EACA,UAAU,EAAE,UAAU;CACvB;;AACD,AAAA,IAAI,CAAC;EACH,MAAM,EAAE,CAAC;CACV",
     "sources": [
-        "../sass/main.scss"
+        "../sass/main.scss",
+        "../sass/directory/layouts/_header.scss"
     ],
     "names": [],
     "file": "main.css"
