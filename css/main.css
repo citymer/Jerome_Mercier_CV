@@ -60,6 +60,10 @@ main {
   background-color: cadetblue;
 }
 
+.left {
+  margin-left: 10px;
+}
+
 .portrait {
   height: 250px;
   width: 200px;
@@ -69,7 +73,31 @@ main {
   margin-left: 7.5%;
 }
 
+.coordonnees {
+  margin-top: 140px;
+}
+
+.adresse {
+  display: flex;
+  height: 40px;
+}
+
+.textAdress {
+  margin: 0;
+}
+
+.fa-location-plus {
+  height: 30px;
+  width: 30px;
+  margin-left: 30px;
+  color: black;
+}
+
 .parcours {
   width: 70%;
+}
+
+.competences {
+  margin-top: 30px;
 }
 /*# sourceMappingURL=main.css.map */
